@@ -158,6 +158,47 @@ i.fa-solid.fa-bars {
     font-weight: 200;
     text-align: center;
 }
+.card{
+    width: 18rem;
+    height: 11rem;
+    text-align: center;
+    padding: 20px 25px 20px 25px;
+}
+
+i.fa-solid.fa-chart-pie{
+    font-size: 35px;
+    margin-bottom: 20px;
+    
+}
+.text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.services{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+i.fa-solid.fa-laptop{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+i.fa-solid.fa-mobile-screen{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+i.fa-solid.fa-rocket{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+i.fa-solid.fa-camera-retro{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.card:hover{
+    color: #8490ff !important;
+}
 
 
 
